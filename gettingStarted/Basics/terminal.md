@@ -5,7 +5,7 @@
 
 ### Overview
 
-The **Terminal** functions as a Unix environment, enabling interaction with your operating system. Similarly, the **File explorer** tool on Windows, is a graphical user interface (GUI), that serves plays a similar part. While some individuals prefer graphical tools such as **File Explorer** or MacOs **Finder**, becoming proficient in a **Terminal** window can not only significantly enhance your efficiency as a developer, it becomes imperative when collaborating without a GUI. Familiarity with this environment will be gained throughout the program, as it is a required skill for future employment.
+The **Terminal** functions as a Unix environment, enabling interaction with your operating system. Similarly, the **File explorer** tool on Windows, is a graphical user interface (GUI), that serves a similar function. While some individuals prefer graphical tools such as **File Explorer** or MacOs **Finder**, becoming proficient in a **Terminal** window can not only significantly enhance your efficiency as a developer, it becomes imperative when collaborating without a GUI. Familiarity with this environment will be gained throughout the program, as it is a required skill for future employment.
 
 As we embark on the journey of learning Java within this program, we will also be delving into Unix commands. This guide serves as an initial exposure to several commands essential for your pre-leap preparation.
 

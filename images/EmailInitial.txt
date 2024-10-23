@@ -1,0 +1,14 @@
+Hello we are so excited that you choose quantum leap and choose to invest in yourself.
+
+**Step 1: Sign Up for GitHub**
+GitHub is a popular platform for hosting and collaborating on Git repositories we will use it extensively throughout this program.
+1. Open your web browser and go to https://github.com
+2. Click on the "Sign up" button in the top right corner.
+3. Follow the prompts.
+
+**Step 2: Verify Your Email**
+1. Check your email inbox for a verification email from GitHub.
+2. Open the email and click the "Verify email address" button.
+3. Ensure you are signed in.
+
+Once you have completed these steps email us back with your github username and we will add you to our pre-launch repo.

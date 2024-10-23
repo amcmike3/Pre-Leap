@@ -1,0 +1,11 @@
+"The journey of a thousand miles starts with the first step."
+You just completed your first step congratulations!
+
+now, Log back into GitHub.com. 
+In the right hand corner you should have a unread notification dileneated by a blue mark.
+Click on your inbox and inside you will find an invitation for PreLaunch. 
+Accept the invitation, scroll down a bit, and click on pre Leap to get started.
+
+Alternatively, you should have recieved an email from github notifying you of the invitation.
+Click on the link and accept the invitation. 
+This will take you to the repository, scroll down a bit, and click on pre Leap to get started.

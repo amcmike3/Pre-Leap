@@ -2,63 +2,63 @@
 
 # Quantum Leap Academy
 
-##  [Pre Leap](./gettingStarted/README.md) 
+##  [Click here to start the Pre Leap](./gettingStarted/README.md) 
 
 
 
 ## What you have to look forward to once you finish pre-leap:
 
 ### Week 1
-* [Java Programming Fundamentals](./gettingStarted/README.md)
+* [Java Programming Fundamentals](./gettingStarted/redirect.md)
 * Homework Project:
-  - [Cash Register](./gettingStarted/README.md)
+  - [Cash Register](./gettingStarted/redirect.md)
   - `or`
-  - [Deaf Grandma](./gettingStarted/README.md)
+  - [Deaf Grandma](./gettingStarted/redirect.md)
 
 ### Week 2
-* [Java Object-Oriented Programming ](./gettingStarted/README.md)
+* [Java Object-Oriented Programming ](./gettingStarted/redirect.md)
 * Homework Project: 
-  - [Text Based Adventure Game](./gettingStarted/README.md)
+  - [Text Based Adventure Game](./gettingStarted/redirect.md)
   - `or`
-  - [Zoo](./gettingStarted/README.md)
+  - [Zoo](./gettingStarted/redirect.md)
 
 ### Week 3
-* [Java OOP and Libraries ](./gettingStarted/README.md)
+* [Java OOP and Libraries ](./gettingStarted/redirect.md)
 * Homework Project: 
-  - [Helicopters](./gettingStarted/README.md)
+  - [Helicopters](./gettingStarted/redirect.md)
   - `or`
-  - [Go Fish](./gettingStarted/README.md)
+  - [Go Fish](./gettingStarted/redirect.md)
 
 ### Week 4
-*  [Introduction to SQL and JDBC](./gettingStarted/README.md) 
-*  [SQL and JDBC Application Development](./gettingStarted/README.md)
-*  [Web Basics](./gettingStarted/README.md) 
-* Homework Project:  [JDBC Actor Query Application](./gettingStarted/README.md) 
+*  [Introduction to SQL and JDBC](./gettingStarted/redirect.md) 
+*  [SQL and JDBC Application Development](./gettingStarted/redirect.md)
+*  [Web Basics](./gettingStarted/redirect.md) 
+* Homework Project:  [JDBC Actor Query Application](./gettingStarted/redirect.md) 
 
 ### Week 5
-* [Dynamic Web Applications](./gettingStarted/README.md)
-* [Introduction to Spring MVC](./gettingStarted/README.md)
-* Group Project: [Spring MVC Film C.R.U.D.](./gettingStarted/README.md)
+* [Dynamic Web Applications](./gettingStarted/redirect.md)
+* [Introduction to Spring MVC](./gettingStarted/redirect.md)
+* Group Project: [Spring MVC Film C.R.U.D.](./gettingStarted/redirect.md)
 
 ### Week 6
-* [JPA](./gettingStarted/README.md)
-* Homework Project: [Spring MVC C.R.U.D.](./gettingStarted/README.md)
-* [Full Stack Group MVC Project](./gettingStarted/README.md)
+* [JPA](./gettingStarted/redirect.md)
+* Homework Project: [Spring MVC C.R.U.D.](./gettingStarted/redirect.md)
+* [Full Stack Group MVC Project](./gettingStarted/redirect.md)
 
 ### Week 7
-* [RESTful Services](./gettingStarted/README.md)
-* [Spring Data JPA](./gettingStarted/README.md)
-* [JavaScript](./gettingStarted/README.md)
+* [RESTful Services](./gettingStarted/redirect.md)
+* [Spring Data JPA](./gettingStarted/redirect.md)
+* [JavaScript](./gettingStarted/redirect.md)
 
 ### Week 8
-* [JavaScript](./gettingStarted/README.md)
+* [JavaScript](./gettingStarted/redirect.md)
 
 ### Week 9
-* [React](./gettingStarted/README.md)
+* [React](./gettingStarted/redirect.md)
 
 ### Week 10
-* [Final Project](./gettingStarted/README.md)
-* [Final Review](./gettingStarted/README.md)
+* [Final Project](./gettingStarted/redirect.md)
+* [Final Review](./gettingStarted/redirect.md)
 
 
 

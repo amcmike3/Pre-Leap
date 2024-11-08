@@ -50,7 +50,7 @@ git remote add origin repository_url
 6. Push your code to GitHub:
 
 ```bash
-git push -u origin master
+git push -u origin main
 ```
 * this step is updating our remote version so that it matches our local version.
   
